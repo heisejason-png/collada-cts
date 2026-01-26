@@ -23,3 +23,5 @@ Documentation/build_information_template.txt
    Template for describing the build and integration changes necessary for your software.
    
 Note: FX Composer 2.0 that is compliant with the test suite is provided on this page.
+
+Created by Jason Scott Heise
